@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Local History",
 		"Package Control",
 		"SFTP",
 		"SideBarEnhancements",
