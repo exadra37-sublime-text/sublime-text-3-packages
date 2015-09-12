@@ -23,4 +23,7 @@
     // The encoding to use when the encoding can't be determined automatically.
     // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.
     "fallback_encoding": "UTF-8",
+
+    // Show folders in the side bar in bold
+    "bold_folder_labels": true,
 }
