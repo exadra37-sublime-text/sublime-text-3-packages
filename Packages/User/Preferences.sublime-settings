@@ -26,4 +26,7 @@
 
     // Show folders in the side bar in bold
     "bold_folder_labels": true,
+
+    // Valid values are "smooth", "phase", "blink" and "solid".
+    "caret_style": "wide",
 }
