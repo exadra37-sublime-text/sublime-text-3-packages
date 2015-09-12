@@ -42,4 +42,7 @@
     // in your User File Preferences.
     // "font_face": "",
     "font_size": 9,
+
+    // Hides the fold buttons unless the mouse is over the gutter
+    "fade_fold_buttons": false,
 }
