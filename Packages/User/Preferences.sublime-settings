@@ -19,4 +19,8 @@
     // Set to true to ensure the last line of the file ends in a newline
     // character when saving
     "ensure_newline_at_eof_on_save": true,
+
+    // The encoding to use when the encoding can't be determined automatically.
+    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.
+    "fallback_encoding": "UTF-8",
 }
