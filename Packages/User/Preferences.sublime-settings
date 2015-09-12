@@ -35,4 +35,11 @@
 
     // Makes tabs with modified files more visible
     "highlight_modified_tabs": true,
+
+    // Note that the font_face and font_size are overridden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    // "font_face": "",
+    "font_size": 9,
 }
