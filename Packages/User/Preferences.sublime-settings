@@ -45,4 +45,9 @@
 
     // Hides the fold buttons unless the mouse is over the gutter
     "fade_fold_buttons": false,
+
+    // Controls how the indent guides are drawn, valid options are
+    // "draw_normal" and "draw_active". draw_active will draw the indent
+    // guides containing the caret in a different color.
+    "indent_guide_options": ["draw_active"],
 }
