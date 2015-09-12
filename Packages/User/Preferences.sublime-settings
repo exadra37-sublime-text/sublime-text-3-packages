@@ -32,4 +32,7 @@
 
     // If enabled, will highlight any line with a caret
     "highlight_line": true,
+
+    // Makes tabs with modified files more visible
+    "highlight_modified_tabs": true,
 }
