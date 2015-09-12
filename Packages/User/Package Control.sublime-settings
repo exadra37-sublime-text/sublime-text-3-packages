@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"GotoDocumentation",
 		"Local History",
 		"Package Control",
 		"Phpcs",
