@@ -50,4 +50,7 @@
     // "draw_normal" and "draw_active". draw_active will draw the indent
     // guides containing the caret in a different color.
     "indent_guide_options": ["draw_active"],
+
+    // Display file encoding in the status bar
+    "show_encoding": true,
 }
