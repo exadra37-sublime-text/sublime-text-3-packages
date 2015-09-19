@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"FileDiffs",
 		"GotoDocumentation",
 		"Local History",
 		"Package Control",
