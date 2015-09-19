@@ -1,0 +1,31 @@
+{
+	// It seems python/sublime cannot always find the phpcs application
+	// If empty, then use PATH version of phpcs, else use the set value
+	// In command line type which phpcs to see the path
+	// ➜  ubuntu $: which phpcs
+	//    /usr/bin/phpcs
+	"phpcs_executable_path": "/usr/bin/phpcs",
+
+	// Path to where you have the php-cs-fixer installed
+	// In command line type which php-cs-fixer to see the path
+	// ➜  ubuntu $: which php-cs-fixer
+	//    /usr/local/bin/php-cs-fixer
+	"php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+
+	// Path to where you have the phpcbf installed
+	// In command line type which phpcbf to see the path
+	// ➜  ubuntu $: which phpcbf
+	//    /usr/bin/phpcbf
+    "phpcbf_executable_path": "/usr/local/bin/phpcbf",
+
+	// It seems python/sublime cannot always find the scheck application
+	// If empty, then use PATH version of scheck, else use the set value
+	"scheck_executable_path": "/opt/pfff/scheck",
+
+	// It seems python/sublime cannot always find the phpmd application
+	// If empty, then use PATH version of phpmd, else use the set value
+	// In command line type which phmd to see the path
+	// ➜  ubuntu $: which phpmd
+	//    /usr/bin/phpmd
+	"phpmd_executable_path": "/usr/bin/phpmd",
+}
