@@ -1,59 +1,24 @@
 {
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-
-    // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true,
-
-    // Word list to use for spell checking
-    "dictionary": "Packages/Language - English/en_GB.dic",
-
-    // Set to true to turn spell checking on by default
-    "spell_check": true,
-
-    // Set to true to removing trailing white space on save
-    "trim_trailing_white_space_on_save": true,
-
-    // Set to true to ensure the last line of the file ends in a newline
-    // character when saving
-    "ensure_newline_at_eof_on_save": true,
-
-    // The encoding to use when the encoding can't be determined automatically.
-    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.
-    "fallback_encoding": "UTF-8",
-
-    // Show folders in the side bar in bold
-    "bold_folder_labels": true,
-
-    // Valid values are "smooth", "phase", "blink" and "solid".
-    "caret_style": "wide",
-
-    // If enabled, will highlight any line with a caret
-    "highlight_line": true,
-
-    // Makes tabs with modified files more visible
-    "highlight_modified_tabs": true,
-
-    // Note that the font_face and font_size are overridden in the platform
-    // specific settings file, for example, "Preferences (Linux).sublime-settings".
-    // Because of this, setting them here will have no effect: you must set them
-    // in your User File Preferences.
-    // "font_face": "",
-    "font_size": 9,
-
-    // Hides the fold buttons unless the mouse is over the gutter
-    "fade_fold_buttons": false,
-
-    // Controls how the indent guides are drawn, valid options are
-    // "draw_normal" and "draw_active". draw_active will draw the indent
-    // guides containing the caret in a different color.
-    "indent_guide_options": ["draw_active"],
-
-    // Display file encoding in the status bar
-    "show_encoding": true,
-
-    // Display line endings in the status bar
-    "show_line_endings": true,
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "UTF-8",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
